@@ -1,0 +1,40 @@
+** dev **
+src
+	views
+		home.html
+		product.html
+	assets
+		images
+		scripts
+			header.js
+			home.js
+			product.js
+		bundled
+			header.bundle.js
+			home.bundle.js
+			product.bundle.js
+			vendor.bundle.js		
+		styles
+			body.scss
+			header.scss
+			home.scss
+			product.scss
+			main.scss
+	main.css
+
+
+
+** prod **
+dist
+	views
+		home.html
+		product.html
+	assets
+		images
+		bundled
+			header.bundle.js
+			home.bundle.js
+			product.bundle.js
+			vendor.bundle.js
+	main.css
+			

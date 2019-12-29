@@ -1,0 +1,10 @@
+$mainColor: violet;
+
+body {
+  display: flex; 
+  #home {
+    color: $mainColor; 
+    font-size: 7rem; 
+    // user-select: none;
+  }
+}
